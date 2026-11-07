@@ -10,7 +10,7 @@
 
 ## 📸 Screenshots
 
-![LaslesVPN Landing Page](./public/lasles-vpn.png)
+![LaslesVPN Landing Page](screen.png)
 
 ---
 
@@ -56,13 +56,7 @@
 git clone <REPOSITORY_URL>
 ```
 
-### 2. Navigate to the project directory
-
-```bash
-cd neo_lesles_vpn
-```
-
-### 3. Run the project
+### 2. Run the project
 
 Откройте файл `index.html` в браузере.
 
@@ -88,7 +82,7 @@ cd neo_lesles_vpn
 
 ## 🔗 Live Demo
 
-🌐 **Project:** [View LaslesVPN Website](<PROJECT_URL>)
+🌐 **Project:** [View LaslesVPN Website](<https://dosymuss.github.io/neobis_front_lasles_VPN/>)
 
 ---
 
